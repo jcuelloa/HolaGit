@@ -1,0 +1,18 @@
+html {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;    
+}
+
+body {
+    text-align: center;
+    margin: 0px;
+    background-color: #F2F3F4;
+    
+}
+
+
+h1, h2, h3 {
+      color:  black;
+      font-family: Optima;
+}
+
